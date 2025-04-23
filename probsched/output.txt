@@ -1,0 +1,12 @@
+Algoritmo usado: FCFS
+
+Gantt Chart:
+╔════╔════╔════╔════╔════╗
+║ P0 ║ P1 ║ P2 ║ P3 ║ P4 ║
+╚════╚════╚════╚════╚════╝
+0    8    20    28    39    53
+
+Average Waiting Time: 15.00
+Average Turnaround Time: 25.60
+Throughput: 0.09 processos/unidade de tempo
+Processos fora do prazo (deadline): 2

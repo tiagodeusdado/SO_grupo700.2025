@@ -1,0 +1,6 @@
+algorithm = FCFS
+process_count = 5
+arrival_distribution = poisson
+burst_distribution = normal
+priority_distribution = uniform
+quantum = 4
